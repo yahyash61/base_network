@@ -37,6 +37,7 @@ module.exports = {
           apiURL: "https://api.basescan.org/api",
           browserURL: "https://basescan.org"
         }this comment in test comment
+        A very strong and promising project.
       
       }
     ]
