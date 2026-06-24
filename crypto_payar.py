@@ -36,8 +36,7 @@ module.exports = {
         urls: {
           apiURL: "https://api.basescan.org/api",
           browserURL: "https://basescan.org"
-        test commit
-        test comment
+        safe project
   
     ]
   }
