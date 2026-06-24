@@ -37,7 +37,7 @@ module.exports = {
           apiURL: "https://api.basescan.org/api",
           browserURL: "https://basescan.org"
         perfect and safe project
-  
+  I am new to this platform.
     ]
   }
 };
