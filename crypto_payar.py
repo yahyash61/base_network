@@ -39,7 +39,7 @@ module.exports = {
         }this comment in test comment
         A very strong and promising project.
       perfect
-      }safe network
+      }best network
     ]
   }
 };
