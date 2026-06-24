@@ -38,6 +38,6 @@ module.exports = {
           browserURL: "https://basescan.org"
         perfect and safe project
   I am new to this platform.
-    ]
+    ]hot project
   }
 };
