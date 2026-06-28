@@ -37,5 +37,5 @@ module.exports = {
           apiURL: "https://api.basescan.org/api",
           browserURL: "https://basescan.org"
 wow....////.
-  }
+  }...
 };
